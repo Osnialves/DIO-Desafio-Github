@@ -1,0 +1,53 @@
+Windows
+
+- cd
+
+- dir
+
+- mkdir
+
+- del/rmdir
+
+Unix
+- cd
+- ls
+-mkdir
+-rm - rf
+
+SHA1 = A sigla SHA significa secure hash algorithm (Algoritmo de hash seguro), é um conjunto de funções
+hash criptográficas projetadas pela NSA (Agência de segurança nacional dos EUA).
+openssl sha1
+
+objetos fundamentais =
+Sistema distribuído =
+segurança =  
+
+Blob
+tree
+commit
+parente
+autor
+menssagem
+timestamp
+
+chave SSH
+ssh-keygen -t (sua chave) -c (seu imail)
+pwd
+eval $(ssh-agent -s)
+
+cat id_
+git clone
+
+- git init
+- git add
+- git commit
+tracked
+Ummodified Modified Staged 
+Untracked
+
+git config --global --unset user.email
+
+git config --global --unset user.nickname
+
+git status
+ 
